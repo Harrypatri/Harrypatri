@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey there! I'm Harry 👋✨
+# Hey there! I'm Patrick 👋✨
 
 ### 🎨 Frontend Developer | Turning ideas into beautiful web experiences
 
